@@ -3,3 +3,4 @@
 =[10197]=
 def paid1():
 	Paid = Activate()
+PAID
